@@ -1,16 +1,16 @@
 body {
-    background-color: #191970;
+  background-color: #191970;
 }
 
-   .titulo {
-           color:#6959CD;
-           text-align: center;
-           font-family: trebuchet;
-   }
+.titulo {
+  color: #6959cd;
+  text-align: center;
+  font-family: trebuchet;
+}
 
-   #paragrafo{
-    font-family: trebuchet;
-    font-size: 20px;
-    color:#7B68EE;
-    text-align: center;
-    }
+#paragrafo {
+  font-family: trebuchet;
+  font-size: 20px;
+  color: #7b68ee;
+  text-align: center;
+}
