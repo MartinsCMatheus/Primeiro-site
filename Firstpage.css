@@ -1,0 +1,15 @@
+body{
+    background-color: #191970;    
+}
+
+.titulo{
+    color:#7B68EE;
+    text-align: center;
+    font-family: Trebuchet
+}
+#paragrafo{
+    font-family: Trebuchet;
+    font-size: 20px;
+    color: #9370DB;
+    text-align: center;
+}
